@@ -1,0 +1,66 @@
+[
+    {
+    "Name": "Johnson David",
+    "Designation": "Full Stack Developer",
+    "Contact": {
+        "E-mail": "dropin2johny@gmail.com",
+        "Mobile": 9841360216,
+        "Linkedin": "linkedin.com/in/johnson-david-5 b02ba221"
+    },
+    "Education": {
+        "Degree": "BA Economics",
+        "Institution": "Madras University"
+    },
+    "Work_experience": [
+        {
+            "Role": "Senior Customer Service Executive",
+            "Company": "RR Donnelley India Outsource Pvt Ltd.",
+            "Year": "January 2017 - current",
+            "Responsibilities": [
+                "Interacting closely with clients to resolve their queries",
+                "Analyzing customer experience data and provide insights to the Front Desk team to enhance customer satisfaction"
+            ]
+        },
+        {
+            "Role": "Media Research Analyst",
+            "Company": "Ninestars Information Technologies Pvt Ltd.",
+            "Year": "December 2011 - January 2017",
+            "Responsibilities": [
+                "Media Research works for NewsAccess(Ireland), Kantar Media",
+                "Developed root cause reports to address problems with customer experience"
+            ]
+        },
+        {
+            "Role": "Market Research Analyst",
+            "Company": "Chennai Consulting Group",
+            "Year": "March 2011 - April 2015",
+            "Responsibilities": [
+                "Primary Research Analyst, Data collection, Designed Questionnaires to conduct Surveys",
+                "Project works with Consumers Association of India (CAI)"
+            ]
+        },
+        {
+            "Role": "General Transcriptionist",
+            "Company": "RAMTech Software Solutions Pvt Ltd.",
+            "Year": "March 2006  -  December 2011",
+            "Responsibilities": [
+                "Financial, Insurance, and Business Transcription works for the US and British Clients",
+                "Transcript Quarterly Earnings Conference Calls for Fortune 500 Companies"
+            ]
+        }
+    ],
+    "Skills": [
+        "Microsoft Office",
+        "Python",
+        "Transcription",
+        "Financial and Market Research"
+    ],
+    "Certificates": [
+        "IBM certified Python 101 for Data Science",
+        "IBM certified Data Science Tools",
+        "IBM certified Foundation of Data Science",
+        "Python Libraries for Data Science",
+        "Data Analysis with Python Workshop"
+    ]
+}
+]

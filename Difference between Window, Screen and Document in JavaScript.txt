@@ -1,0 +1,9 @@
+Difference between Window, Screen and Document in JavaScript
+
+
+Window:  Window is the main JavaScript root also known as Global Object in a Browser and it can also be treated as the root of the Document Object Model (DOM).
+Window is the root of everything.
+
+Screen:  Screen is a small information object about physical screen dimensions. Screen just has screen dimensions.
+
+Document: Document is the main object of the potentially visible Document Object Model (DOM). Document is top DOM.
